@@ -1,0 +1,38 @@
+# Permalinks
+permalink:           pretty
+
+# Setup
+title:               Courtney Stepien
+tagline:             Frivolous Analysis 
+url:                 http://courtneystepien.com
+paginate:            2
+baseurl:             ""
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              Courtney Stepien 
+  url:               https://twitter.com/courtneystepien
+  email:             courtney.stepien@gmail.com 
+
+# Custom vars
+version:             2.0.0
+github:
+  repo:              https://github.com/cstepien
+
+# Gems
+gems:
+  - jekyll-paginate
+  - jekyll-gist
+
+# Page List
+pages_list:       
+  About: '/about'
+  Archive: '/archive'
+  Feed: '/index.html'
