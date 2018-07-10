@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Optimizing Campaign Outreach for the WomenTechWomenYes Annual Gala: Canvassing MTA Stations
+title: Optimizing Campaign Outreach for the WomenTechWomenYes Annual Gala
 ---
 
 <div class="message">
